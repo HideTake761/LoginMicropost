@@ -1,0 +1,12 @@
+*ŠÇ—Ò
+Admin User
+railsadmin@example.com
+rootbeer
+
+user001
+railsuser001@example.net
+1monday0
+
+user002
+railsuser002@example.net
+2monday0
