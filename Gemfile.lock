@@ -212,7 +212,7 @@ DEPENDENCIES
   rails (~> 6.0.0)
   sass-rails (~> 5)
   selenium-webdriver
-  sqlite3 (~> 1.4)
+  sqlite3
   turbolinks (~> 5)
   tzinfo-data
   web-console (>= 3.3.0)
