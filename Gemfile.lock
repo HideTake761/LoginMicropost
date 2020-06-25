@@ -80,6 +80,7 @@ GEM
     erubi (1.9.0)
     faker (2.6.0)
       i18n (>= 1.6, < 1.8)
+    ffi (1.11.1)
     ffi (1.11.1-x64-mingw32)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
@@ -99,14 +100,18 @@ GEM
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
     minitest (5.12.2)
+    msgpack (1.3.1)
     msgpack (1.3.1-x64-mingw32)
     nio4r (2.5.2)
+    nokogiri (1.10.4)
+      mini_portile2 (~> 2.4.0)
     nokogiri (1.10.4-x64-mingw32)
       mini_portile2 (~> 2.4.0)
+    pg (1.1.4)
     pg (1.1.4-x64-mingw32)
     public_suffix (4.0.1)
     puma (3.12.1)
-    rack (2.0.7)
+    rack (2.2.3)
     rack-proxy (0.6.5)
       rack
     rack-test (1.1.0)
@@ -194,10 +199,10 @@ GEM
     will_paginate (3.2.1)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    yui-compressor (0.12.0)
     zeitwerk (2.2.0)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES
@@ -220,7 +225,6 @@ DEPENDENCIES
   webdrivers
   webpacker
   will_paginate
-  yui-compressor
 
 RUBY VERSION
    ruby 2.5.5p157
